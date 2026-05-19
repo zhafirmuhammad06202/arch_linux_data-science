@@ -63,6 +63,19 @@ arch_linux_data-science/
 │   └── test.py        # Library verification script
 └── README.md
 
+## 🗺️ Projects
+
+### 1. Library Verification
+`test.py` — Verifikasi instalasi semua library AI & Data Science.
+
+### 2. Asia Population Map
+`asia_population.png` — Peta choropleth populasi Asia menggunakan GeoPandas & Matplotlib.
+
+### 3. 🌡️ Indonesia Climate Interactive Map
+`climate_map.py` — Peta interaktif suhu dan curah hujan 27 kota besar Indonesia menggunakan data real-time dari Open-Meteo API.
+- `temperature_map.html` — Peta suhu rata-rata maksimum (7-day forecast)
+- `rainfall_map.html` — Peta curah hujan rata-rata (7-day forecast)
+
 ## 🎯 Purpose
 
 This repository is part of my preparation for graduate study (S2), documenting the process of building a reproducible data science environment on Linux for research in geophysics, geospatial analysis, and applied machine learning.
