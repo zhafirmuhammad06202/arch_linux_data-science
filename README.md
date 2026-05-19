@@ -66,15 +66,15 @@ arch_linux_data-science/
 ## 🗺️ Projects
 
 ### 1. Library Verification
-`test.py` — Verifikasi instalasi semua library AI & Data Science.
+`test.py` — Verifies installation of all core AI & Data Science libraries.
 
 ### 2. Asia Population Map
-`asia_population.png` — Peta choropleth populasi Asia menggunakan GeoPandas & Matplotlib.
+`asia_population.png` — Choropleth map of Asia's population using GeoPandas & Matplotlib.
 
 ### 3. 🌡️ Indonesia Climate Interactive Map
-`climate_map.py` — Peta interaktif suhu dan curah hujan 27 kota besar Indonesia menggunakan data real-time dari Open-Meteo API.
-- `temperature_map.html` — Peta suhu rata-rata maksimum (7-day forecast)
-- `rainfall_map.html` — Peta curah hujan rata-rata (7-day forecast)
+`climate_map.py` — Interactive temperature and rainfall map of 27 major Indonesian cities using real-time data from the Open-Meteo API.
+- `temperature_map.html` — Average maximum temperature map (7-day forecast)
+- `rainfall_map.html` — Average precipitation map (7-day forecast)
 
 ## 🎯 Purpose
 
